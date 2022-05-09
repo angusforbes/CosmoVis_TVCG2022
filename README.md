@@ -31,7 +31,7 @@ CosmoVis can be configured to run locally or remotely on a server, but the most 
      
 4.  **Access CosmoVis in your web browser**  
       
-    Navigate to https://localhost:5000  
+    Navigate to http://localhost:5000  
     NOTE: It might not work if your web browser does not support WebGL 2.0.  
      
 
